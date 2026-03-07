@@ -1,12 +1,12 @@
 # 200 AI Prompts for Solana Crypto Opportunity
 
-Unlock the full potential of your Solana crypto projects with this extensive collection of 200 unique and engaging AI prompts! Designed specifically for those looking to tap into the lucrative world o
+Unlock the full potential of your Solana investments with this comprehensive collection of 200 unique and effective AI prompts. Perfect for traders, investors, and enthusiasts looking to maximize thei
 
 ## Dataset Info
 
 | Property | Value |
 |---|---|
-| Records | 2 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Unlock the full potential of your Solana crypto projects with this extensive col
 ## Sample
 
 ```json
-"What is the most innovative use case for Solana in the realm of NFTs?"
+"..."
 ```
 
 ## Usage
