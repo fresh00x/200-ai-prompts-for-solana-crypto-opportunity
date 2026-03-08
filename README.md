@@ -1,4 +1,4 @@
-# 200-ai-prompts-for-solana-crypto-opportunity
+# 200 AI Prompts for Solana Crypto Opportunity
 
 Unlock the full potential of your Solana investments with this comprehensive collection of 200 unique and effective AI prompts. Perfect for traders, investors, and enthusiasts looking to maximize thei
 
@@ -14,7 +14,7 @@ Unlock the full potential of your Solana investments with this comprehensive col
 ## Sample
 
 ```json
-Keys: title, description, price
+"..."
 ```
 
 ## Usage
